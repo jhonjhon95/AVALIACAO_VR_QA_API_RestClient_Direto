@@ -3,13 +3,13 @@
 1- Passo de um clone no projeto
 
 ```
-git clone 
+git clone https://github.com/jhonjhon95/AVALIACAO_VR_QA_API_RestClient_Direto.git
 ```
 
 2- Passo de entre na pasta do projeto
 
 ```
-cd testeapi/tests
+cd AVALIACAO_VR_QA_API_RestClient_Direto
 ```
 
 3- Passo instale as dependências
@@ -22,11 +22,6 @@ bundle install
 4- Passo rode o projeto:
 
 ```
-cucumber
-```
-
+ruby aa.rb - // Para RestClinet Direto
 ou 
-
-```
-bundle exec cucumber
-```
+ruby bb.rb - // Para HttParty Direto
